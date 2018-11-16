@@ -1,7 +1,7 @@
 # GoogleVisualr
 
 [![Gem Version](http://img.shields.io/gem/v/google_visualr.svg?style=flat-square)](https://rubygems.org/gems/google_visualr)
-[![Build Status](http://img.shields.io/travis/winston/google_visualr.svg?style=flat-square)](https://travis-ci.org/winston/google_visualr)
+[![Build Status](http://img.shields.io/travis/Kenneth-KT/google_visualr.svg?style=flat-square)](https://travis-ci.org/winston/google_visualr)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/winston/google_visualr/blob/master/MIT-LICENSE)
 
 GoogleVisualr, is a wrapper around the [Google Charts](https://developers.google.com/chart/) that allows anyone to create beautiful charts with just plain Ruby. You don't have to write any JavaScript at all.
